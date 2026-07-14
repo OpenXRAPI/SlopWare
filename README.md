@@ -43,7 +43,7 @@ Hello i am OpenXRAPI or Maxwell I make mods in my free time. This mod is complet
   - Clear Object button.
   - Blocks player-like objects from being teleported.
 
-  ESP Object Finder
+  ESP/Nameplate ESP
 
   - Exact-name object searches.
   - Multiple saved object names.
