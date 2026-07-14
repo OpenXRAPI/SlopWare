@@ -9,6 +9,10 @@ Hello i am OpenXRAPI or Maxwell I make mods in my free time. This mod is complet
   - Protect/Misc switches between menu pages.
   - Saved settings automatically reload.
 
+  Client Hacks
+  
+  - Block Other Player Movement (Blocks Photon event code 201/Photon status code 1042/DisconnectByServerUserLimit. )
+
   Movement
 
   - Super Slopfest Flight
